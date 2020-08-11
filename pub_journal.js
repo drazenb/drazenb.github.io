@@ -1,5 +1,6 @@
 document.write(' \
 <ul> \
+  <li>D. Brščić, R. W. Evans, M. Rehm, T. Kanda. <span class="italic">Using a Rotating 3D LiDAR on a Mobile Robot for Estimation of Person\'s Body Angle and Gender</span>, Sensors, Vol. 20, No. 14, 3964, 2020</li> \
   <li>K. Du, T. Kaczmarek, D. Brščić, T. Kanda, <span class="italic">Recognition of Rare Low-Moral Actions Using Depth Data</span>, Sensors, Vol. 20, No. 10, 2758, 2020</li> \
   <li>F. Zanlungo, Z. Yücel, D. Brščić, T. Kanda, N. Hagita, <span class="italic">Intrinsic group behaviour: Dependence of pedestrian dyad dynamics on principal social and personal features</span>, PLoS One, Vol. 12, No. 11, e0187253, pp. 1-26, 2017</li> \
   <li>D. Brščić, T. Ikeda, T. Kanda, <span class="italic">Do You Need Help? A Robot Providing Information to People Who Behave Atypically</span>, IEEE Transactions on Robotics, Vol. 33, No. 2, pp. 500-506, 2017</li> \
