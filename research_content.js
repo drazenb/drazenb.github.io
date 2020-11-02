@@ -26,7 +26,10 @@ function research_print(usejp){
         ')
     }
     else {
-        document.write('<p>TODO</p>')
+        document.write('\
+            <p>距離画像センサや3次元LiDARなどの3D距離センサを使用して、公共スペースの人々の追跡や行動認識に取り組んでいる。</ p> \
+            <p>以下は例の動画。</ p> \
+        ')
     }    
     document.write('<div class="youtube"> \
               <iframe src="https://www.youtube.com/embed/HYVj3cCJUdI" frameborder="0" allowfullscreen></iframe> \
@@ -34,12 +37,15 @@ function research_print(usejp){
     
     if (!usejp) {
         document.write('\
-            <p>You can also find freely available datasets here as well as here.</p> \
+            <p>You can also find freely available datasets <a href="https://dil.atr.jp/ISL/dataset/">here</a> as well as <a href="http://www.robot.soc.i.kyoto-u.ac.jp/en/datasets/">here</a>.</p> \
             <p>For more details refer to the relevant publications.</p> \
          ')
     }
     else {
-        document.write('<p>TODO</p>')
+        document.write(' \
+            <p>公開されているデータセット:<a href = "https://dil.atr.jp/ISL/dataset/">ここ</a>と<a href="http://www.robot.soc.i.kyoto-u.ac.jp/en/datasets/">ここ</a>。</p> \
+            <p>詳細については、関連する出版物を参照してください。</ p> \
+        ')
     }
     document.write(' \
             <div class="research_papers"> \
@@ -87,7 +93,9 @@ function research_print(usejp){
         ')
     }
     else {
-        document.write('<p>TODO</p>')
+        document.write('\
+            <p>上の人間追跡システムにより、歩行者（特に歩行者グループ）の行動をモデル化した。以下の論文を参照。</ p> \
+        ')
     }    
     document.write(' \
             <div class="research_papers"> \
@@ -111,43 +119,176 @@ function research_print(usejp){
         document.write('モデルに基づいたヒューマンロボットインタラクション')
     }
     document.write('</h2>')
-
+   
+    document.write('<section>')
+    if (!usejp) {
+        document.write(' \
+            <p> Based on the sensing and behavior modeling described above we have been working on the creation of smooth and natural interactions of social robots with humans in public spaces. </p> \
+        ')
+    }
+    else {
+        document.write(' \
+            <p> 上記のセンシングと行動モデリングに基づいて、私たちは公共空間でのソーシャルロボットと人間とのスムーズで自然な相互作用の作成に取り組んでいる。 </p> \
+        ')
+    }
+    document.write('</section>')
+    
+   
+    document.write('<h3 class="cg">')
+    if (!usejp) {
+        document.write('data-driven learning of human interactions')
+    }
+    else {
+        document.write('データに基づいた人間のインタラクションの学習')
+    }
+    document.write('</h3>')
+    
+    document.write('<section>')
+    
+    if (!usejp) {
+        document.write(' \
+            <p> The data collected using the sensing system allows us to applying machine learning to learn social robot interactive behavior directly from human data.</p> \
+        ')
+    } else {
+        document.write(' \
+            <p> センシングシステムを使用して収集されたデータにより、機械学習を適用して、人間のデータから直接ソーシャルロボットのインタラクティブな動作を学習できる。</p> \
+        ')
+    }
+    
     document.write(' \
-           <section> \
-            <h3 class="cg">escaping children\'s abuse of robots</h3> \
+            <div class="research_papers"> \
+              <p>A. Nanavati, M. Doering, D. Brščić, and T. Kanda, <span class="italic">Autonomously Learning One-To-Many Social Interaction Logic from Human-Human Interaction Data</span>, 2020 ACM/IEEE International Conference on Human-Robot Interaction (HRI), Cambridge, UK, March 2020</p> \
+            </div> \
+    ')
+    document.write('</section>')
+
+    document.write('<h3 class="cg">')
+    if (!usejp) {
+        document.write('simulation-based interaction planning')
+    }
+    else {
+        document.write('シミュレーションに基づいたロボットインタラクション計画')
+    }
+    document.write('</h3>')
+    
+    document.write('<section>')
+    
+    document.write('<h4 class="cg">')
+    if (!usejp) {
+        document.write('escaping children\'s abuse of robots')
+    }
+    else {
+        document.write('ロボットいじめの回避')
+    }
+    document.write('</h4>')
+     
+    if (!usejp) {    
+        document.write(' \
             <p> We studied the problem of the robot being abused by small children in public spaces, and proposed a method to predict the abuse and escape from it. </p> \
+        ')
+    }
+    else {
+        document.write(' \
+            <p> 公共の場で小さな子供たちにロボットがいじめされる問題を研究し、いじめを予測することにより回避する方法を提案した。 </p> \
+        ')
+    }
+    document.write(' \
             <div class="youtube"> \
               <iframe src="https://www.youtube.com/embed/CuJT9EtdETY" frameborder="0" allowfullscreen></iframe> \
             </div> \
+    ')
+    if (!usejp) {    
+        document.write(' \
             <p>This work has also been covered in the press - <a href="http://spectrum.ieee.org/automaton/robotics/artificial-intelligence/children-beating-up-robot/?utm_source=roboticsnews&utm_medium=email&utm_campaign=081815#" target="_blank">IEEE Spectrum</a></p> \
+        ')
+    }
+    else {
+        document.write(' \
+            <p> \
+            <!-- This work has also been covered in the press - --> \
+            <a href="http://spectrum.ieee.org/automaton/robotics/artificial-intelligence/children-beating-up-robot/?utm_source=roboticsnews&utm_medium=email&utm_campaign=081815#" target="_blank">IEEE Spectrum</a> \
+            </p> \
+        ')
+    }
+    document.write(' \
             <div class="research_papers"> \
-              <p>D. Brščić, H. Kidokoro, Y. Suehiro, M. Shiomi, <i>Escaping from Children’s Abuse of Social Robots</i>, 10th ACM/IEEE International Conference on Human-Robot Interaction HRI 2015, pp. 59-66, Portland, USA, March 2015</p> \
+              <p>D. Brščić, H. Kidokoro, Y. Suehiro, T. Kanda, <span class="italic">Escaping from Children’s Abuse of Social Robots</span>, 10th ACM/IEEE International Conference on Human-Robot Interaction HRI 2015, pp. 59-66, Portland, USA, March 2015</p> \
             </div> \
-          </section> \
-          <section> \
-            <h3 class="cg">robot providing information</h3> \
+    ')
+    document.write('</section>')
+    
+    document.write('<section>')
+
+    if (!usejp) {
+        document.write('robot providing information')
+    }
+    else {
+        document.write('情報を提供するロボット')
+    }
+    document.write('</h4>')
+        
+    if (!usejp) {
+        document.write(' \
             <p>We developed a method to predict the motion of typical visitors and used it to implement a robot which approaches only atypical people in order to offer them help.</p> \
-            <div class="youtube"> \
+        ')
+    }
+    else {
+        document.write(' \
+            <p>ショッピングモールの典型的な訪問者の動きを予測する方法を開発し、それを使用して、非典型的な人々だけにアプローチして支援を提供するロボット実現した。</p> \
+        ')
+    }
+    document.write(' \
+             <div class="youtube"> \
               <iframe src="https://www.youtube.com/embed/FLE8utuaavo" frameborder="0" allowfullscreen></iframe> \
             </div> \
             <div class="research_papers"> \
-              <p>D. Brščić, T. Ikeda, T. Kanda, "Do You Need Help? A Robot Providing Information to People Who Behave Atypically", IEEE Transactions on Robotics, Vol. 33, No. 3, 2017 (to appear)</p> \
+              <p>D. Brščić, T. Ikeda, T. Kanda, <span class="italic">Do You Need Help? A Robot Providing Information to People Who Behave Atypically</span>, IEEE Transactions on Robotics, Vol. 33, No. 3, 2017</p> \
             </div> \
-          </section> \
-          <section> \
-            <h3 class="cg">preventing congestion around robot</h3> \
-            <p>Since a robot often attracts crowds of people and can become a nuisance to other pedestrians, we developed a way for the robot to estimate the effect of its pressence on the confort of people passing nearby and used this model to plan the robots actions.</p> \
+    ')
+    document.write('</section>')
+    
+    document.write('<section>')
+    if (!usejp) {
+        document.write('preventing congestion around robot')
+    }
+    else {
+        document.write('ロボット周辺の混雑を防ぐ')
+    }
+    document.write('</h4>')
+        
+    if (!usejp) {
+        document.write(' \
+            <p>Since a robot often attracts crowds of people and can become a nuisance to other pedestrians, we developed a way for the robot to estimate the effect of its presence on the confort of people passing nearby and used this model to plan the robots actions.</p> \
+        ')
+    }
+    else {
+        document.write(' \
+            <p>ロボットは人ごみを惹きつけ、他の歩行者の迷惑になることが多い。ロボットが近くを通過する人々の快適さへの影響を推定する方法を開発し、このモデルを使用してロボットの動作を計画しました。</p> \
+        ')
+    }
+    document.write(' \
             <div class="youtube"> \
               <iframe src="https://www.youtube.com/embed/N014SI-SzKc" frameborder="0" allowfullscreen></iframe> \
             </div> \
+    ')
+    document.write(' \
             <div class="research_papers"> \
               <ul> \
-                <li>H. Kidokoro, T. Kanda, D. Brščić, M. Shiomi, <i>Simulation-Based Behavior Planning to Prevent Congestion of Pedestrians Around a Robot</i>, IEEE Transactions on Robotics, Vol. 31, No. 6, pp. 1419-1431, 2015</li> \
-                <li>H. Kidokoro, T. Kanda, D. Brščić, M. Shiomi, <i>Will I bother here? - A robot anticipating its influence on pedestrian walking comfort</i>, 8th ACM/IEEE International Conference on Human-Robot Interaction HRI 2013, pp. 259-266, Tokyo, Japan, March 2013</li> \
+                <li>H. Kidokoro, T. Kanda, D. Brščić, M. Shiomi, <span class="italic">Simulation-Based Behavior Planning to Prevent Congestion of Pedestrians Around a Robot</span>, IEEE Transactions on Robotics, Vol. 31, No. 6, pp. 1419-1431, 2015</li> \
+                <li>H. Kidokoro, T. Kanda, D. Brščić, M. Shiomi, <span class="italic">Will I bother here? - A robot anticipating its influence on pedestrian walking comfort</span>, 8th ACM/IEEE International Conference on Human-Robot Interaction HRI 2013, pp. 259-266, Tokyo, Japan, March 2013</li> \
+              </ul> \
+            </div> \
+    ')
+    document.write('</section>')
+    document.write('<section>')
+    document.write(' <!--\
+            See also: \
+            <div class="research_papers"> \
+              <ul> \
+                <li>S. Satake, T. Kaczmarek, D. Brščić and T. Kanda, <span class="italic">Facilitating Software Development for Mobile Social Robots by Simulating Interactions Between a Robot and Pedestrians</span>, 14th ACM/IEEE International Conference on Human-Robot Interaction (HRI), pp. 626-627, Daegu, Korea (South), 2019</li> \
               </ul> \
             </div> \
           </section> \
-    ')
-    
-
+    -->')
+ 
 }
