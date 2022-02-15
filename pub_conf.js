@@ -1,5 +1,6 @@
 document.write(' \
 <ul> \
+  <li>K. Winkle, R.B. Jackson, G.I. Melsion, D. Brščić, I. Leite, T. Williams, <span class="italic">Norm-Breaking Responses to Sexist Abuse: A Cross-Cultural Human Robot Interaction Study</span>, 2022 ACM/IEEE International Conference on Human-Robot Interaction (HRI), March 2022</li> \
   <li>R. Maeda, D. Brščić, and T. Kanda, <span class="italic">Influencing Moral Behavior Through Mere Observation of Robot Work: Video-based Survey on Littering Behavior</span>, 2021 ACM/IEEE International Conference on Human-Robot Interaction (HRI), pp. 83–91, March 2021</li> \
   <li>K. Makita, D. Brščić, and T. Kanda, <span class="italic">Recognition of Human Characteristics Using Multiple Mobile Robots with 3D LiDARs</span>, 2021 IEEE/SICE International Symposium on System Integration (SII), pp. 650-655, Iwaki, Japan, January 2021</li> \
   <li>A. Nanavati, M. Doering, D. Brščić, and T. Kanda, <span class="italic">Autonomously Learning One-To-Many Social Interaction Logic from Human-Human Interaction Data</span>, 2020 ACM/IEEE International Conference on Human-Robot Interaction (HRI), Cambridge, UK, March 2020</li> \
