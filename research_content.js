@@ -50,8 +50,8 @@ function research_print(usejp){
     document.write(' \
             <div class="research_papers"> \
               <ul> \
-                <li>D. Brščić, R. W. Evans, M. Rehm, T. Kanda, <span class="italic">Using a Rotating 3D LiDAR on a Mobile Robot for Estimation of Person\'s Body Angle and Gender</span>, Sensors, Vol. 20, No. 14, 3964, 2020</li> \
                 <li>K. Du, T. Kaczmarek, D. Brščić, T. Kanda, <span class="italic">Recognition of Rare Low-Moral Actions Using Depth Data</span>, Sensors, Vol. 20, No. 10, 2758, 2020</li> \
+                <li>D. Brščić, R. W. Evans, M. Rehm, T. Kanda, <span class="italic">Using a Rotating 3D LiDAR on a Mobile Robot for Estimation of Person\'s Body Angle and Gender</span>, Sensors, Vol. 20, No. 14, 3964, 2020</li> \
                 <li>D. Brščić, T. Kanda, <span class="italic">Changes in Usage of an Indoor Public Space: Analysis of One Year of Person Tracking</span>, IEEE Transactions on Human-Machine Systems, Vol. 45, No. 2, pp. 228-237, 2015</li> \
                 <li>D. Brščić, T. Kanda, T. Ikeda, T. Miyashita, <span class="italic">Person tracking in large public spaces using 3D range sensors</span>, IEEE Transactions on Human-Machine Systems, Vol. 43, No. 6, pp. 522-534, 2013</li> \
               </ul> \
@@ -157,8 +157,10 @@ function research_print(usejp){
     
     document.write(' \
             <div class="research_papers"> \
-			  <p>M. Doering, D. Brščić, T. Kanda, <span class="italic">Data-Driven Imitation Learning for a Shopkeeper Robot with Periodically Changing Product Information</span>, ACM Transactions on Human-Robot Interaction 10, 4, Article 31, 20 pages, 2021</p> \
-              <p>A. Nanavati, M. Doering, D. Brščić, and T. Kanda, <span class="italic">Autonomously Learning One-To-Many Social Interaction Logic from Human-Human Interaction Data</span>, 2020 ACM/IEEE International Conference on Human-Robot Interaction (HRI), Cambridge, UK, March 2020</p> \
+              <ul> \
+                <li>M. Doering, D. Brščić, T. Kanda, <span class="italic">Data-Driven Imitation Learning for a Shopkeeper Robot with Periodically Changing Product Information</span>, ACM Transactions on Human-Robot Interaction 10, 4, Article 31, 20 pages, 2021</li> \
+				<li>A. Nanavati, M. Doering, D. Brščić, and T. Kanda, <span class="italic">Autonomously Learning One-To-Many Social Interaction Logic from Human-Human Interaction Data</span>, 2020 ACM/IEEE International Conference on Human-Robot Interaction (HRI), Cambridge, UK, March 2020</li> \
+              </ul> \
             </div> \
     ')
     document.write('</section>')
