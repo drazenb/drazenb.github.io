@@ -147,16 +147,17 @@ function research_print(usejp){
     
     if (!usejp) {
         document.write(' \
-            <p> The data collected using the sensing system allows us to applying machine learning to learn social robot interactive behavior directly from human data.</p> \
+            <p> The data collected using the sensing system allows us to apply machine learning to learn social robot interactive behavior directly from human-human interactions.</p> \
         ')
     } else {
         document.write(' \
-            <p> センシングシステムを使用して収集されたデータにより、機械学習を適用して、人間のデータから直接ソーシャルロボットのインタラクティブな動作を学習できる。</p> \
+            <p> センシングシステムを使用して収集されたデータにより、機械学習を適用して、人間同士小野インタラクションから直接ソーシャルロボットのインタラクティブな動作を学習できる。</p> \
         ')
     }
     
     document.write(' \
             <div class="research_papers"> \
+			  <p>M. Doering, D. Brščić, T. Kanda, <span class="italic">Data-Driven Imitation Learning for a Shopkeeper Robot with Periodically Changing Product Information</span>, ACM Transactions on Human-Robot Interaction 10, 4, Article 31, 20 pages, 2021</p> \
               <p>A. Nanavati, M. Doering, D. Brščić, and T. Kanda, <span class="italic">Autonomously Learning One-To-Many Social Interaction Logic from Human-Human Interaction Data</span>, 2020 ACM/IEEE International Conference on Human-Robot Interaction (HRI), Cambridge, UK, March 2020</p> \
             </div> \
     ')
@@ -219,6 +220,7 @@ function research_print(usejp){
     
     document.write('<section>')
 
+    document.write('<h4 class="cg">')
     if (!usejp) {
         document.write('robot providing information')
     }
@@ -248,6 +250,8 @@ function research_print(usejp){
     document.write('</section>')
     
     document.write('<section>')
+    
+	document.write('<h4 class="cg">')
     if (!usejp) {
         document.write('preventing congestion around robot')
     }
