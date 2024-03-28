@@ -1,6 +1,6 @@
 document.write(' \
 <ul> \
-  <li>K. Du, D. Brščić, Y. Liu, T. Kanda, <span class="italic">Can't You See I Am Bothered? Human-inspired Suggestive Avoidance for Robots</span>, 2024 ACM/IEEE International Conference on Human-Robot Interaction (HRI), March 2024</li> \
+  <li>K. Du, D. Brščić, Y. Liu, T. Kanda, <span class="italic">Can’t You See I Am Bothered? Human-inspired Suggestive Avoidance for Robots</span>, 2024 ACM/IEEE International Conference on Human-Robot Interaction (HRI), March 2024</li> \
   <li>S. Edirisinghe, S. Satake, D. Brščić, Y. Liu, T. Kanda, <span class="italic">Field Trial of an Autonomous Shopworker Robot that Aims to Provide Friendly Encouragement and Exert Social Pressure</span>, 2024 ACM/IEEE International Conference on Human-Robot Interaction (HRI), March 2024</li> \
   <li>H. Nakashima, D. Brščić, T. Kanda, <span class="italic">Expanding the Senses: Considering the Use of Active Smell Delivery for Human-Robot Interactions</span>, 11th International Conference on Human-Agent Interaction (poster), December 2023</li> \
   <li>K. Winkle, R.B. Jackson, G.I. Melsion, D. Brščić, I. Leite, T. Williams, <span class="italic">Norm-Breaking Responses to Sexist Abuse: A Cross-Cultural Human Robot Interaction Study</span>, 2022 ACM/IEEE International Conference on Human-Robot Interaction (HRI), March 2022</li> \
