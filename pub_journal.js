@@ -1,5 +1,7 @@
 document.write(' \
 <ul> \
+  <li>K. Nishiwaki, D. Brščić, T. Kanda, <span class="italic">Expressing Anger with Robot for Tackling the Onset of Robot Abuse</span>, ACM Transactions on Human-Robot Interaction, 14, 1, Article 10, 23 pages, 2024</li> \
+  <li>T. Shaheen, D. Brščić, T. Kanda, <span class="italic">Investigation of low-moral actions by malicious anonymous operators of avatar robots</span>, ACM Transactions on Human-Robot Interaction, 14, 1, Article 11, 34 pages, 2024</li> \
   <li>T. Furlanis, D. Brščić, T. Kanda, <span class="italic">Robots as moral environments</span>, AI & SOCIETY, 19 pages, 2023</li> \
   <li>M. Doering, D. Brščić, T. Kanda, <span class="italic">Data-Driven Imitation Learning for a Shopkeeper Robot with Periodically Changing Product Information</span>, ACM Transactions on Human-Robot Interaction 10, 4, Article 31, 20 pages, 2021</li> \
   <li>D. Brščić, R. W. Evans, M. Rehm, T. Kanda, <span class="italic">Using a Rotating 3D LiDAR on a Mobile Robot for Estimation of Person\'s Body Angle and Gender</span>, Sensors, Vol. 20, No. 14, 3964, 2020</li> \
