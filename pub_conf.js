@@ -1,7 +1,7 @@
 document.write(' \
 <ul> \
   <li>R. Ramnauth, D. Brščić, B. Scassellati, <span class="italic">Should I Help?: A Skill-Based Framework for Deciding Socially Appropriate Assistance in Human-Robot Interactions</span>, 2024 33rd IEEE International Conference on Robot and Human Interactive Communication (ROMAN), pp. 2051-2058, Pasadena, CA, USA, August 2024</li> \
-  <li>Z. Abbas, D. Brščić, Y. Liu, T. Kanda, <span class="italic">Identifying and Detecting Inadvertent Socially Inappropriate Movement of Avatar Robots</span>, 2024 33rd IEEE International Conference on Robot and Human Interactive Communication (ROMAN), pp. 1864-1871, Pasadena, CA, USA, August 2024</li> \
+  <li>Z. Abbas, D. Brščić, T. Kanda, <span class="italic">Identifying and Detecting Inadvertent Socially Inappropriate Movement of Avatar Robots</span>, 2024 33rd IEEE International Conference on Robot and Human Interactive Communication (ROMAN), pp. 1864-1871, Pasadena, CA, USA, August 2024</li> \
   <li>K. Du, D. Brščić, Y. Liu, T. Kanda, <span class="italic">Can’t You See I Am Bothered? Human-inspired Suggestive Avoidance for Robots</span>, 2024 ACM/IEEE International Conference on Human-Robot Interaction (HRI), March 2024</li> \
   <li>S. Edirisinghe, S. Satake, D. Brščić, Y. Liu, T. Kanda, <span class="italic">Field Trial of an Autonomous Shopworker Robot that Aims to Provide Friendly Encouragement and Exert Social Pressure</span>, 2024 ACM/IEEE International Conference on Human-Robot Interaction (HRI), March 2024</li> \
   <li>H. Nakashima, D. Brščić, T. Kanda, <span class="italic">Expanding the Senses: Considering the Use of Active Smell Delivery for Human-Robot Interactions</span>, 11th International Conference on Human-Agent Interaction (poster), December 2023</li> \
