@@ -1,7 +1,7 @@
 document.write(' \
 <ul> \
   <li>H. Nakashima, D. Brščić, T. Kanda, <span class="italic">Exploring the Use of Smell in Social Interaction via Robot Avatars</span>, 2025 ACM/IEEE International Conference on Human-Robot Interaction (HRI), March 2025</li> \
-  <li>K. Du, D. Brščić, T. Kanda, <span class="italic">Don't Just Stop Here! Human-Inspired Solutions for Sudden Robot Stops</span>, 2025 ACM/IEEE International Conference on Human-Robot Interaction (HRI), March 2025</li> \
+  <li>K. Du, D. Brščić, T. Kanda, <span class="italic">Don\'t Just Stop Here! Human-Inspired Solutions for Sudden Robot Stops</span>, 2025 ACM/IEEE International Conference on Human-Robot Interaction (HRI), March 2025</li> \
   <li>R. Ramnauth, D. Brščić, B. Scassellati, <span class="italic">Should I Help?: A Skill-Based Framework for Deciding Socially Appropriate Assistance in Human-Robot Interactions</span>, 2024 33rd IEEE International Conference on Robot and Human Interactive Communication (ROMAN), pp. 2051-2058, Pasadena, CA, USA, August 2024</li> \
   <li>Z. Abbas, D. Brščić, T. Kanda, <span class="italic">Identifying and Detecting Inadvertent Socially Inappropriate Movement of Avatar Robots</span>, 2024 33rd IEEE International Conference on Robot and Human Interactive Communication (ROMAN), pp. 1864-1871, Pasadena, CA, USA, August 2024</li> \
   <li>K. Du, D. Brščić, Y. Liu, T. Kanda, <span class="italic">Can’t You See I Am Bothered? Human-inspired Suggestive Avoidance for Robots</span>, 2024 ACM/IEEE International Conference on Human-Robot Interaction (HRI), March 2024</li> \
