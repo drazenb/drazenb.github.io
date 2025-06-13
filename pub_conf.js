@@ -1,5 +1,6 @@
 document.write(' \
 <ul> \
+  <li>R. Ramnauth, D. Brščić, B. Scassellati, <span class="italic">A Robot-Assisted Approach to Small Talk Training for Adults with ASD</span>, Robotics: Science and Systems (RSS), June 2025</li> \
   <li>H. Nakashima, D. Brščić, T. Kanda, <span class="italic">Exploring the Use of Smell in Social Interaction via Robot Avatars</span>, 2025 ACM/IEEE International Conference on Human-Robot Interaction (HRI), March 2025</li> \
   <li>K. Du, D. Brščić, T. Kanda, <span class="italic">Don\'t Just Stop Here! Human-Inspired Solutions for Sudden Robot Stops</span>, 2025 ACM/IEEE International Conference on Human-Robot Interaction (HRI), March 2025</li> \
   <li>R. Ramnauth, D. Brščić, B. Scassellati, <span class="italic">Should I Help?: A Skill-Based Framework for Deciding Socially Appropriate Assistance in Human-Robot Interactions</span>, 2024 33rd IEEE International Conference on Robot and Human Interactive Communication (ROMAN), pp. 2051-2058, Pasadena, CA, USA, August 2024</li> \

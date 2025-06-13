@@ -1,5 +1,6 @@
 document.write(' \
 <ul> \
+  <li>K. Hosoda, D. Brščić, T. Kanda, <span class="italic">Interaction-aware augmented reality interface for assisting erring social robots</span>, Journal of Multimodal User Interfaces, 2025</li> \
   <li>K. Nishiwaki, D. Brščić, T. Kanda, <span class="italic">Expressing Anger with Robot for Tackling the Onset of Robot Abuse</span>, ACM Transactions on Human-Robot Interaction, 14, 1, Article 10, 23 pages, 2024</li> \
   <li>T. Shaheen, D. Brščić, T. Kanda, <span class="italic">Investigation of low-moral actions by malicious anonymous operators of avatar robots</span>, ACM Transactions on Human-Robot Interaction, 14, 1, Article 11, 34 pages, 2024</li> \
   <li>T. Furlanis, D. Brščić, T. Kanda, <span class="italic">Robots as moral environments</span>, AI & SOCIETY, 19 pages, 2023</li> \
