@@ -1,5 +1,8 @@
 document.write(' \
 <ul> \
+  <li>A.A. Shahid, A. Moroncelli, D. Brščić, T. Kanda, L. Roveda, <span class="italic">GEAR: Gaze-Enabled Human-Robot Collaborative Assembly </span>, 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), October 2025</li> \ 
+  <li>R. Ramnauth, D. Brščić, B. Scassellati, <span class="italic">From Fidgeting to Focused: Developing Robot-Enhanced Social-Emotional Therapy (RESET) for School De-Escalation Rooms</span>, 34th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN), August 2025</li> \
+  <li>D. Brščić, B. Scassellati, <span class="italic">Nudging Without Words: Movement-Only Influence by a Robot Manipulator</span>, 34th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN), August 2025</li> \
   <li>R. Ramnauth, D. Brščić, B. Scassellati, <span class="italic">A Robot-Assisted Approach to Small Talk Training for Adults with ASD</span>, Robotics: Science and Systems (RSS), June 2025</li> \
   <li>H. Nakashima, D. Brščić, T. Kanda, <span class="italic">Exploring the Use of Smell in Social Interaction via Robot Avatars</span>, 2025 ACM/IEEE International Conference on Human-Robot Interaction (HRI), March 2025</li> \
   <li>K. Du, D. Brščić, T. Kanda, <span class="italic">Don\'t Just Stop Here! Human-Inspired Solutions for Sudden Robot Stops</span>, 2025 ACM/IEEE International Conference on Human-Robot Interaction (HRI), March 2025</li> \
