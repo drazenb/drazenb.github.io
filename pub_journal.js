@@ -1,5 +1,6 @@
 document.write(' \
 <ul> \
+  <li>R. Muramatsu, D. Brščić, T. Kanda, <span class="italic">How Can Robots Acquire Venue-Specific Social Strategies? The Case of Robot Clerks Learning Sales Negotiations</span>, ACM Transactions on Human-Robot Interaction, 2025</li> \
   <li>K. Makita, D. Brščić, T. Kanda, <span class="italic">How Should a Robot do Indirect Handovers Politely?</span>, International Journal of Social Robotics, Vol. 17, pp. 1501–1515, 2025</li> \
   <li>H.M. Shehata, Y. Liu, D. Brščić, T. Kanda, <span class="italic">Simulation-Based Machine Learning for Detection of Rarely Occurring Behaviors Based on Human Trajectories</span>, International Journal of Social Robotics, Vol. 17, pp. 1485-1499, 2025</li> \
   <li>K. Hosoda, D. Brščić, T. Kanda, <span class="italic">Interaction-aware augmented reality interface for assisting erring social robots</span>, Journal of Multimodal User Interfaces, 2025</li> \
