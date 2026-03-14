@@ -1,6 +1,6 @@
 document.write(' \
 <ul> \
-  <li>T. Furlanis, D. Brščić, T. Kanda, <span class="italic">Robotic Bias and Its Dimensions</span>, 2026 ACM/IEEE International Conference on Human-Robot Interaction (HRI), March 2026</li> \
+  <li>T. Furlanis, D. Brščić, T. Kanda, <span class="italic">Robotic Bias and Its Dimensions</span>, 2026 ACM/IEEE International Conference on Human-Robot Interaction (HRI), March 2026 <a href="https://www.robot.soc.i.kyoto-u.ac.jp/~drazen/pdf/hri26main-p4776-p-2054fcaed5-172825-final.pdf">PDF</a></li> \
   <li>A.A. Shahid, A. Moroncelli, D. Brščić, T. Kanda, L. Roveda, <span class="italic">GEAR: Gaze-Enabled Human-Robot Collaborative Assembly </span>, 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), October 2025</li> \
   <li>R. Ramnauth, D. Brščić, B. Scassellati, <span class="italic">From Fidgeting to Focused: Developing Robot-Enhanced Social-Emotional Therapy (RESET) for School De-Escalation Rooms</span>, 34th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN), August 2025 <span class="award"><i class="fas fa-trophy"></i>Best Paper Award<i class="fas fa-trophy"></i></span></li> \
   <li>D. Brščić, B. Scassellati, <span class="italic">Nudging Without Words: Movement-Only Cues from a Robot Manipulator Influence Human Decisions</span>, 34th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN), August 2025</li> \
